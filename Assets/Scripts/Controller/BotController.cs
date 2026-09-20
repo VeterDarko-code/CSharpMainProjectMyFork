@@ -9,6 +9,7 @@ using Utilities;
 //hello
 //How are you?
 //i'm fine
+// conflict comment
 namespace Controller
 {
     public class BotController
